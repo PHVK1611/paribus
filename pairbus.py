@@ -13,7 +13,7 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
 app = FastAPI(
-    title="Hospital Bulk Processing System",
+    title="Assignment---Hospital Bulk Processing System",
    
 )
 
